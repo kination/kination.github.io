@@ -4,15 +4,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">kination&#39;s blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-03-21T16:59:55&#43;09:00</updated>
+    <updated>2023-03-21T17:01:38&#43;09:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
     <author>
-            <name>reuixiy</name>
+            <name>kination</name>
             <uri>https://example.com/</uri>
             
-                <email>reuixiy@gmail.com</email>
+                <email>kination27@gmail.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.111.3">Hugo</generator>
@@ -23,9 +23,9 @@
             <updated>2023-03-21T15:46:00&#43;09:00</updated>
             <published>2022-09-11T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Sink is a &amp;rsquo;loading&amp;rsquo; part of ETL(Extract, Transformation, Loading) inside Flink. It is last process of data pipeline, to store data inside datalake after it has been extract from source, and transformed into specific format.
 This is example of how you can sink from Flink DataStream:</summary>
@@ -389,9 +389,9 @@ org.apache.flink.formats.compress.CompressWriterFactory.withHadoopCompression(Co
             <updated>2023-03-21T15:46:00&#43;09:00</updated>
             <published>2022-06-05T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Data stream is a flow of data, which are coming from multiple sources continuously. It can be event log or database log captured by CDC internally, or sensor data from IoT devices.
 These kind of streams are usually very high-frequent in production level, and in this case we will think of connecting sources into stream processing framework to handle it, such as Spark or Flink.</summary>
@@ -661,9 +661,9 @@ These kind of streams are usually very high-frequent in production level, and in
             <updated>2023-03-21T15:46:00&#43;09:00</updated>
             <published>2021-11-29T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">About year ago, I&amp;rsquo;ve wrote some post about BFF architecture. One of the architecture&amp;rsquo;s component was &amp;lsquo;reverse proxy&amp;rsquo;. This is for more description about it.
 Proxy server Definition of proxy server in networking, means server application works as relay server between client and target server.</summary>
@@ -828,9 +828,9 @@ Proxy server Definition of proxy server in networking, means server application 
             <updated>2023-03-21T15:46:00&#43;09:00</updated>
             <published>2021-10-15T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">This is just for reminding my knowledge, about tree data structure, which most of developers will know:
 yes, something looks like this.
@@ -1137,9 +1137,9 @@ It requires one more condition that every node has a value that is&amp;hellip;&l
             <updated>2023-03-21T15:46:00&#43;09:00</updated>
             <published>2021-09-03T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&amp;lsquo;Data Skewness&amp;rsquo; is a one of issue you can face oftenly while treating spark which is caused based on parallel computing.
 Following image simply described the situation of &amp;lsquo;skewed&amp;rsquo;.
@@ -1466,9 +1466,9 @@ and &amp;lsquo;Suffling&amp;rsquo; is very expensive operation for performance.&
             <updated>2023-03-21T15:46:00&#43;09:00</updated>
             <published>2021-02-15T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Usually, data pipeline requires complex workflow. Generated data should be sent to various endpoints, and needs to be manufactured by status while moving on.
 For example, if there&amp;rsquo;s a log file stored in S3, the pipeline may need to
@@ -1920,9 +1920,9 @@ Send this to ELK, for monitoring purpose every 10 minute Format to filter useles
             <updated>2023-03-21T15:46:00&#43;09:00</updated>
             <published>2020-12-02T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Amazon Athena is a service to analyze data stored in S3 with interactive SQL query. You don&amp;rsquo;t need additional setup, and only need to pay for the queries you&amp;rsquo;ve run.
 It is usually being used by data scientists, or business developer who needs to get insights from big data(probably stored inside S3, or else).</summary>
@@ -2210,9 +2210,9 @@ It is usually being used by data scientists, or business developer who needs to 
             <updated>2023-03-21T15:46:00&#43;09:00</updated>
             <published>2020-10-21T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Few days ago, I&amp;rsquo;ve planned to design some side project, which is based on mobile application. This is the record about how I&amp;rsquo;ve implement authentication logic through application side to back-end side.
 I&amp;rsquo;ve once wrote about authentication with golang, but in this time I&amp;rsquo;ve decided to use nodejs.</summary>
@@ -2822,9 +2822,9 @@ $ # result -&amp;gt; {&amp;#34;userId&amp;#34;: &amp;#34;user-id&amp;#34;, &amp;
             <updated>2023-03-21T15:46:00&#43;09:00</updated>
             <published>2020-06-30T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">I&amp;rsquo;ve had a change to join on hackathon event few weeks ago, and participate as developing backend with infra setup. In my mind hackathon event has more meaning on testing experimental things instead of making stable result, so I&amp;rsquo;ve decided to try on &amp;lsquo;Cloud Run&amp;rsquo;.</summary>
             
@@ -3071,9 +3071,9 @@ Wait for a while for service upload. You could find auto-generated url to access
             <updated>2023-03-21T15:46:00&#43;09:00</updated>
             <published>2020-05-22T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">If you are starting to make some kind of web(or app) service, it is mandatory of thinking about authentication.
 Every service has information to show, and it should divide public/private information to be displayed. If you are thinking of financial service, certification and security becomes even more important.</summary>
@@ -3462,9 +3462,9 @@ Every service has information to show, and it should divide public/private infor
             <updated>2023-03-21T15:46:00&#43;09:00</updated>
             <published>2020-04-20T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">CI/CD in software engineering is a process to apply developer&amp;rsquo;s work to project. It includes maintaining code, compiling process, testings(unit, e2e), and all other things for software updates. This phrase has been used more than 20 years, and various tools for integration/deployment has been created during 2 decades.</summary>
             
@@ -3764,9 +3764,9 @@ Commands:
             <updated>2023-03-21T15:46:00&#43;09:00</updated>
             <published>2020-03-11T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Designing Java API API is a gate, entrance of the service for the user. Developer who is willing to use the service will research API design carefully, and make implementation plan based on this. It means good API design will make user&amp;rsquo;s code more clear and simple, and let them keep use our service consistently.</summary>
             
@@ -4037,9 +4037,9 @@ Though both offers similar operation, it has different naming. Of course, from f
             <updated>2023-03-21T15:46:00&#43;09:00</updated>
             <published>2020-01-26T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Making from scratch is a typical way to learn something. Because most of modern programming languages has its own package manager, it is simple to get implemented module with single command. But it does not mean I totally understand how that works, so I&amp;rsquo;ve plan to start review &amp;amp; mocking project by topic.</summary>
             
@@ -4293,9 +4293,9 @@ Though both offers similar operation, it has different naming. Of course, from f
             <updated>2023-03-21T15:46:00&#43;09:00</updated>
             <published>2019-10-17T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">What is BFF pattern, and how it work for service</summary>
             
@@ -4653,9 +4653,9 @@ But between BFF and client, network speed will be highly effected by where user 
             <updated>2023-03-21T15:46:00&#43;09:00</updated>
             <published>2019-08-02T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">I&amp;rsquo;ve received a request for a simple demo few weeks ago, which needs to catch-up real time data, and show the result on simple webpage. I&amp;rsquo;ve thought it would be simple at first meeting. But because I was first on using micro-service and traffic size was way more bigger than I thought, I faced with lot of issue on work.</summary>
             
@@ -4910,9 +4910,9 @@ if (jse.asJsonObject.get(&amp;#34;key&amp;#34;).isJsonNull()) {
             <updated>2023-03-21T15:46:00&#43;09:00</updated>
             <published>2019-06-21T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">It has been &amp;lsquo;bout a month using Vue.js on production level. I&amp;rsquo;ve used AnguarJS 1.x in first web development and work with React last 1 year. And first impression of Vue.js is, it is very easy to start on. Not because it has similarities with frameworks I&amp;rsquo;ve used, it has great document for beginners, and it is not fragmentized like React.</summary>
             
@@ -5286,9 +5286,9 @@ In this image, you can see feature as:&lt;/p&gt;
             <updated>2023-03-21T15:46:00&#43;09:00</updated>
             <published>2019-03-22T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Some golang guide for python/js developer</summary>
             
@@ -5664,9 +5664,9 @@ If you install golang via ‘brew’, it will automatically create and define as
             <updated>2023-03-21T15:46:00&#43;09:00</updated>
             <published>2019-02-28T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Things I don&#39;t know in early 2019, as a developer</summary>
             
@@ -5790,9 +5790,9 @@ For example, learning technologies when I need them.
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2019-01-29T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">What is reactive programming, and rx(reactive extension)</summary>
             
@@ -6037,9 +6037,9 @@ Received: Four of the ten most expensive stadiums ever built worldwide (MetLife 
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2018-12-21T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">How-to create/publish your own node module to npm repository</summary>
             
@@ -6420,9 +6420,9 @@ npm notice
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2018-11-25T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">It has been several years since deeplearning became common in our life. Lots of services are based on it, and you can find guide books/documents easily in bookstore or google. But it is hard to go on deeply by understanding theories and logics, for most of engineer who is not majored this.</summary>
             
@@ -6776,9 +6776,9 @@ This is just note for basic understanding.&lt;/p&gt;
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2018-10-29T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Nowadays, most of the service requires massive size of database. For example, let&amp;rsquo;s think you are making e-commerce service. In early days, it only needed to save data for items(item image, description&amp;hellip;) and user(ID, email, address&amp;hellip;) which are necessary for commerce. But, to attract more user, it started to offer more personalized information, such as &amp;lsquo;recommend items&amp;rsquo;.</summary>
             
@@ -6956,9 +6956,9 @@ Go into menu &amp;lsquo;discover&amp;rsquo; in left navigation menu.&lt;/p&gt;
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2018-09-29T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">TypeScript is a superset of JavaScript that compiles to pure JavaScript, like CoffeeScript or Dart. When I first heard of this, thought as &amp;lsquo;Why do we need to learn a new thing, which will create JavaScript file? Is it better to make JavaScript directly?</summary>
             
@@ -7374,9 +7374,9 @@ And when making &lt;code&gt;state&lt;/code&gt;, &lt;code&gt;dispatch&lt;/code&gt
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2018-08-15T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">It was one IT news that how I know about, and starting to look on Rust language. The most attractive phrase in that time was guaranteed memory safety, but actually there are more pros than that.
 In document, you can find like:</summary>
@@ -7691,9 +7691,9 @@ benchmark(sum_np_list, np_random_list)
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2018-07-23T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">In big data era, by increasement of data size, lots of companies who treated this needed to concern about speed. But HDFS, which usually being used to store big data, couldn&amp;rsquo;t show enough performance, by blocking from I/O. Data engineers started to research on this, and lots of projects has been introduced, still now.</summary>
             
@@ -7866,9 +7866,9 @@ Now, the print action is required, so DAG will be executed to show the mapped da
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2018-06-16T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">asyncio is a high-level API for supporting to implement asyncrounous code, which has been added to python default module from version 3.4. There were some workaround for asyncrounous before, but asyncio is supporting process to run asyncrounous in language level. It will reduce lots of code comparing with old-style way.</summary>
             
@@ -8074,9 +8074,9 @@ It will be more easier to understand now.
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2018-05-18T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">It has been few year since I started about knowing data research. And during now, I had some chance to study/use machine learning algorithm with great ML/DL modules, but didn&amp;rsquo;t think deep about data engineering to store or handle big data, because the data I treated was not so big.</summary>
             
@@ -8355,9 +8355,9 @@ I&amp;rsquo;ll keep working on, and share here as much as possible.&lt;/p&gt;
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2018-03-20T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">First time I heard of Akka, was the blog post written about case of Twitter, that they implemented their service based on this to handle massive twit data in real-time. I&amp;rsquo;ve had some experiences developing web server, and currently having interests of concurrency issue, and it makes me looking on this.</summary>
             
@@ -8570,9 +8570,9 @@ If you are more interested in this, you could find more from official site, GitH
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2018-01-15T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">As I wrote in previous post, most dataset in real world are not clean. They are usually messed up, incompatible(ex:&amp;rsquo;-1&amp;rsquo; is included in data which defines people&amp;rsquo;s age), and some of are missing. These kind of dataset will mostly cause error, or return wrong result when you just put on your elaborated logic.</summary>
             
@@ -8778,9 +8778,9 @@ print(&amp;lsquo;The accuracy of the Decision Tree is&amp;rsquo;,metrics.accurac
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2017-11-25T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">kaggle is a platform for competiting data analytic and predictive modeling. Lots of companies post their raw data, and researchers compete to find best prediction from here. You can use Python, R, or Julia for a research. I&amp;rsquo;ll work on with Python here.</summary>
             
@@ -9009,9 +9009,9 @@ dt_solution = pd.DataFrame(dt_prediction_result, PassengerId, columns = [&amp;ld
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2017-11-05T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">This is the following post of Create own module project - Android, and shows the way to keep your module stable continuously.
 Make tests Test is important to make your project reliable. As your project going bigger, there will be lots of bugs, and it is tough to keep your codes stable while fixing and modifing it.</summary>
@@ -9157,9 +9157,9 @@ It needs to define language and it is set as &lt;code&gt;Android&lt;/code&gt;(th
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2017-10-03T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">One of my interests is distribute computing for data research, so it made me looking on open source projects for this feature. One of important point in distribution is managing status of each server, and communicating between them. I found out lots of them(such as storm, kafka, and much more) are using zookeeper for this feature, and this is why I started to looking on it.</summary>
             
@@ -9322,9 +9322,9 @@ numChildren = 0
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2017-09-05T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">e2e, or end-to-end testing is a testing method that goes on to actual application usage flow. It means, it tests your applicaion in user&amp;rsquo;s point of view. It is to check whether client showing correct information what system requests. You can register test scenario like components shows/hides correctly, action(button click, drag&amp;amp;drop) works well, and more things related with user interfaces/moves.</summary>
             
@@ -9514,9 +9514,9 @@ After click event happens, make test to wait browser result for 5 seconds cause 
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2017-08-11T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">There are lots of modules for Android, and it helps you to develop your own app more easier, and faster. Most of them are open source and it is still being managed/updated by many contributer. You also could be one of them as contributor, or main producer by making your own module.</summary>
             
@@ -9707,9 +9707,9 @@ tools:context=&amp;ldquo;io.kination.myapplication.MainActivity&amp;rdquo;&amp;g
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2017-07-23T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&amp;lsquo;Web scraping&amp;rsquo; is a logic to get web page data as HTML format. With this information, not only could get text/image data inside of target page, we could also find out which tag has been used and which link is been included in.</summary>
             
@@ -9868,9 +9868,9 @@ bs_object = BeautifulSoup(hb_scraper.scrape_page(url), &amp;ldquo;html.parser&am
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2017-07-04T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">As front-end projects are being complecated, there are many process to think on working such as compressing, linting, transpiling, and more. These are not mandatory stuffs, but it helps managing your project, and upgrade its performance. Surely, there are several tools for this such as Grunt or Gulp, and you could set an option in Webpack to make these process.</summary>
             
@@ -10148,9 +10148,9 @@ Very simple! Just add &lt;code&gt;gulp-cache-bust&lt;/code&gt; module with param
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2017-06-09T23:56:45&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">One of the trend on developer is AI and machine learing, and I think most of engineer, like me, are trying to going into this field. To start on machine learning, we need a knowledge about data analysis, and for that we have to remind statistics, which we suffered when we are a student.</summary>
             
@@ -10260,9 +10260,9 @@ plt.show()
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2017-04-05T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">How-to move legacy GCM to Firebase cloud messaging in Android client</summary>
             
@@ -10452,9 +10452,9 @@ android:name=&#34;.FBIdService&#34;&gt;
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2017-03-14T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">What is, and how to go on with Ibis</summary>
             
@@ -10673,9 +10673,9 @@ id bool_col  tinyint_col  smallint_col  int_col  bigint_col  &lt;br&gt;
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2017-01-10T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">How MapReduce is working on</summary>
             
@@ -10757,9 +10757,9 @@ Welcome to mapreduce
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2016-11-11T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Make good, simple API server based on Django</summary>
             
@@ -10949,9 +10949,9 @@ $ curl -H &amp;lsquo;Accept: application/json; indent=4&amp;rsquo; http://127.0.
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2016-09-28T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Managing tick values on nvd3 chart</summary>
             
@@ -11126,9 +11126,9 @@ Now in &amp;rsquo;tickValues&amp;rsquo; option, return proper date value only fo
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2016-08-23T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">How to register own package to bower repository</summary>
             
@@ -11287,9 +11287,9 @@ homepage: &amp;lsquo;&lt;a href=&#34;https://github.com/kination/ion-range-slide
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2016-08-12T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">How to setup language translation on AngularJS project</summary>
             
@@ -11428,9 +11428,9 @@ function ($translateProvider) {&lt;/p&gt;
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2016-07-25T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Develop python projects with virtualenv &amp; pyenv</summary>
             
@@ -11567,9 +11567,9 @@ system
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2016-06-10T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">This is a description about creating web app by angularjs, running based on django.</summary>
             
@@ -11686,9 +11686,9 @@ STATIC_URL = &amp;lsquo;/static/&amp;rsquo;
             <updated>2023-03-21T15:45:59&#43;09:00</updated>
             <published>2016-03-06T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>kination</name>
+                    <uri>https://kination.github.io/</uri>
+                    <email>kination27@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">How to change listview to recyclerview</summary>
             
