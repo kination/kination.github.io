@@ -2,510 +2,510 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/tags/bigdata/</loc>
+    <loc>https://kination.github.io/tags/bigdata/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2022-09-11-export-file-from-flink-app/</loc>
+    <loc>https://kination.github.io/posts/2022-09-11-export-file-from-flink-app/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/flink/</loc>
+    <loc>https://kination.github.io/tags/flink/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/gzip/</loc>
+    <loc>https://kination.github.io/tags/gzip/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://kination.github.io/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://kination.github.io/posts/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/raw/</loc>
+    <loc>https://kination.github.io/tags/raw/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/sink/</loc>
+    <loc>https://kination.github.io/tags/sink/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://kination.github.io/tags/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2022-06-05-flink-handle-stream-window/</loc>
+    <loc>https://kination.github.io/posts/2022-06-05-flink-handle-stream-window/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/java/</loc>
+    <loc>https://kination.github.io/tags/java/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/stream/</loc>
+    <loc>https://kination.github.io/tags/stream/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/window/</loc>
+    <loc>https://kination.github.io/tags/window/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/network/</loc>
+    <loc>https://kination.github.io/tags/network/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/proxy/</loc>
+    <loc>https://kination.github.io/tags/proxy/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/reverseproxy/</loc>
+    <loc>https://kination.github.io/tags/reverseproxy/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/rust/</loc>
+    <loc>https://kination.github.io/tags/rust/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2021-11-29-what-reverse-proxy-for/</loc>
+    <loc>https://kination.github.io/posts/2021-11-29-what-reverse-proxy-for/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/bfs/</loc>
+    <loc>https://kination.github.io/tags/bfs/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/datastructure/</loc>
+    <loc>https://kination.github.io/tags/datastructure/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/dfs/</loc>
+    <loc>https://kination.github.io/tags/dfs/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/programming/</loc>
+    <loc>https://kination.github.io/tags/programming/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2021-11-15-back-to-basic-of-tree-structure/</loc>
+    <loc>https://kination.github.io/posts/2021-11-15-back-to-basic-of-tree-structure/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/distribution/</loc>
+    <loc>https://kination.github.io/tags/distribution/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2021-09-03-face-on-skew-issue-in-spark/</loc>
+    <loc>https://kination.github.io/posts/2021-09-03-face-on-skew-issue-in-spark/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/parallel/</loc>
+    <loc>https://kination.github.io/tags/parallel/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/scala/</loc>
+    <loc>https://kination.github.io/tags/scala/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/skew/</loc>
+    <loc>https://kination.github.io/tags/skew/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/spark/</loc>
+    <loc>https://kination.github.io/tags/spark/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/airflow/</loc>
+    <loc>https://kination.github.io/tags/airflow/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/aws/</loc>
+    <loc>https://kination.github.io/tags/aws/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2021-02-15-deploy-airflow-with-github-action/</loc>
+    <loc>https://kination.github.io/posts/2021-02-15-deploy-airflow-with-github-action/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/github/</loc>
+    <loc>https://kination.github.io/tags/github/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/github_action/</loc>
+    <loc>https://kination.github.io/tags/github_action/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/python/</loc>
+    <loc>https://kination.github.io/tags/python/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/shell_script/</loc>
+    <loc>https://kination.github.io/tags/shell_script/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/athena/</loc>
+    <loc>https://kination.github.io/tags/athena/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2020-12-02-athena-with-sdk-spark-jdbc/</loc>
+    <loc>https://kination.github.io/posts/2020-12-02-athena-with-sdk-spark-jdbc/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/dataframe/</loc>
+    <loc>https://kination.github.io/tags/dataframe/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/jdbc/</loc>
+    <loc>https://kination.github.io/tags/jdbc/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/sdk/</loc>
+    <loc>https://kination.github.io/tags/sdk/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/dart/</loc>
+    <loc>https://kination.github.io/tags/dart/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/flutter/</loc>
+    <loc>https://kination.github.io/tags/flutter/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2020-10-20-authentication-with-flutter-nestjs/</loc>
+    <loc>https://kination.github.io/posts/2020-10-20-authentication-with-flutter-nestjs/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/nestjs/</loc>
+    <loc>https://kination.github.io/tags/nestjs/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/nodejs/</loc>
+    <loc>https://kination.github.io/tags/nodejs/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/typescript/</loc>
+    <loc>https://kination.github.io/tags/typescript/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/web/</loc>
+    <loc>https://kination.github.io/tags/web/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/cloudrun/</loc>
+    <loc>https://kination.github.io/tags/cloudrun/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/deploy/</loc>
+    <loc>https://kination.github.io/tags/deploy/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/django/</loc>
+    <loc>https://kination.github.io/tags/django/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/gcp/</loc>
+    <loc>https://kination.github.io/tags/gcp/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/react/</loc>
+    <loc>https://kination.github.io/tags/react/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2020-06-30-cloud-run-django-react/</loc>
+    <loc>https://kination.github.io/posts/2020-06-30-cloud-run-django-react/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/authentication/</loc>
+    <loc>https://kination.github.io/tags/authentication/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2020-05-22-authentication-process-golang-web-part-1/</loc>
+    <loc>https://kination.github.io/posts/2020-05-22-authentication-process-golang-web-part-1/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/echo/</loc>
+    <loc>https://kination.github.io/tags/echo/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/golang/</loc>
+    <loc>https://kination.github.io/tags/golang/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/jwt/</loc>
+    <loc>https://kination.github.io/tags/jwt/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/server/</loc>
+    <loc>https://kination.github.io/tags/server/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/cli/</loc>
+    <loc>https://kination.github.io/tags/cli/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2020-04-20-cli-tool-for-build-deploy/</loc>
+    <loc>https://kination.github.io/posts/2020-04-20-cli-tool-for-build-deploy/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/docker/</loc>
+    <loc>https://kination.github.io/tags/docker/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/gitops/</loc>
+    <loc>https://kination.github.io/tags/gitops/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/jenkins/</loc>
+    <loc>https://kination.github.io/tags/jenkins/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/api/</loc>
+    <loc>https://kination.github.io/tags/api/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2020-03-11-api-designing-java/</loc>
+    <loc>https://kination.github.io/posts/2020-03-11-api-designing-java/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/design/</loc>
+    <loc>https://kination.github.io/tags/design/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/build-your-own-x/</loc>
+    <loc>https://kination.github.io/tags/build-your-own-x/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/fundamental/</loc>
+    <loc>https://kination.github.io/tags/fundamental/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/key-value-store/</loc>
+    <loc>https://kination.github.io/tags/key-value-store/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/storage/</loc>
+    <loc>https://kination.github.io/tags/storage/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2020-01-26-build-your-own-kv-store/</loc>
+    <loc>https://kination.github.io/posts/2020-01-26-build-your-own-kv-store/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/backend/</loc>
+    <loc>https://kination.github.io/tags/backend/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2019-10-17-about-how-bff-works/</loc>
+    <loc>https://kination.github.io/posts/2019-10-17-about-how-bff-works/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/express/</loc>
+    <loc>https://kination.github.io/tags/express/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/frontend/</loc>
+    <loc>https://kination.github.io/tags/frontend/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/microservice/</loc>
+    <loc>https://kination.github.io/tags/microservice/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/node/</loc>
+    <loc>https://kination.github.io/tags/node/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2019-08-02-handle-feature-kafka-spring/</loc>
+    <loc>https://kination.github.io/posts/2019-08-02-handle-feature-kafka-spring/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/kafka/</loc>
+    <loc>https://kination.github.io/tags/kafka/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/kotlin/</loc>
+    <loc>https://kination.github.io/tags/kotlin/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/spring/</loc>
+    <loc>https://kination.github.io/tags/spring/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2019-06-21-vuejs-component-basic-data-flow/</loc>
+    <loc>https://kination.github.io/posts/2019-06-21-vuejs-component-basic-data-flow/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/component/</loc>
+    <loc>https://kination.github.io/tags/component/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/vue/</loc>
+    <loc>https://kination.github.io/tags/vue/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/vuejs/</loc>
+    <loc>https://kination.github.io/tags/vuejs/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2019-03-22-py-js-to-golang/</loc>
+    <loc>https://kination.github.io/posts/2019-03-22-py-js-to-golang/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/develop/</loc>
+    <loc>https://kination.github.io/tags/develop/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/developer/</loc>
+    <loc>https://kination.github.io/tags/developer/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/sw-engineer/</loc>
+    <loc>https://kination.github.io/tags/sw-engineer/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2019-02-28-things-of-do-dont/</loc>
+    <loc>https://kination.github.io/posts/2019-02-28-things-of-do-dont/</loc>
     <lastmod>2023-03-21T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/reactive/</loc>
+    <loc>https://kination.github.io/tags/reactive/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2019-01-29-reactive-programming-rx/</loc>
+    <loc>https://kination.github.io/posts/2019-01-29-reactive-programming-rx/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/rx/</loc>
+    <loc>https://kination.github.io/tags/rx/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/rxpy/</loc>
+    <loc>https://kination.github.io/tags/rxpy/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/ci/</loc>
+    <loc>https://kination.github.io/tags/ci/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/npm/</loc>
+    <loc>https://kination.github.io/tags/npm/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/package/</loc>
+    <loc>https://kination.github.io/tags/package/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2018-12-21-publish-module-npm/</loc>
+    <loc>https://kination.github.io/posts/2018-12-21-publish-module-npm/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/deeplearning/</loc>
+    <loc>https://kination.github.io/tags/deeplearning/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/neuralnetwork/</loc>
+    <loc>https://kination.github.io/tags/neuralnetwork/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2018-11-25-tensorflow-basic-neural-network/</loc>
+    <loc>https://kination.github.io/posts/2018-11-25-tensorflow-basic-neural-network/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/tensorflow/</loc>
+    <loc>https://kination.github.io/tags/tensorflow/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2018-10-29-basic-of-elk-stack/</loc>
+    <loc>https://kination.github.io/posts/2018-10-29-basic-of-elk-stack/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/elasticsearch/</loc>
+    <loc>https://kination.github.io/tags/elasticsearch/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/kibana/</loc>
+    <loc>https://kination.github.io/tags/kibana/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/logstash/</loc>
+    <loc>https://kination.github.io/tags/logstash/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/javascript/</loc>
+    <loc>https://kination.github.io/tags/javascript/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/redux/</loc>
+    <loc>https://kination.github.io/tags/redux/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2018-09-29-react-js-to-ts/</loc>
+    <loc>https://kination.github.io/posts/2018-09-29-react-js-to-ts/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/benchmark/</loc>
+    <loc>https://kination.github.io/tags/benchmark/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/numpy/</loc>
+    <loc>https://kination.github.io/tags/numpy/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2018-08-15-power-up-python-with-rust/</loc>
+    <loc>https://kination.github.io/posts/2018-08-15-power-up-python-with-rust/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2018-07-23-day-with-starting-spark/</loc>
+    <loc>https://kination.github.io/posts/2018-07-23-day-with-starting-spark/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/apache/</loc>
+    <loc>https://kination.github.io/tags/apache/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/data-engineering/</loc>
+    <loc>https://kination.github.io/tags/data-engineering/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/hadoop/</loc>
+    <loc>https://kination.github.io/tags/hadoop/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/open-source/</loc>
+    <loc>https://kination.github.io/tags/open-source/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/aiohttp/</loc>
+    <loc>https://kination.github.io/tags/aiohttp/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/asyncio/</loc>
+    <loc>https://kination.github.io/tags/asyncio/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2018-06-16-python-async-aiohttp/</loc>
+    <loc>https://kination.github.io/posts/2018-06-16-python-async-aiohttp/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/hive/</loc>
+    <loc>https://kination.github.io/tags/hive/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2018-05-18-hadoop-hive-setup/</loc>
+    <loc>https://kination.github.io/posts/2018-05-18-hadoop-hive-setup/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/actor/</loc>
+    <loc>https://kination.github.io/tags/actor/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2018-03-20-actor-and-akka/</loc>
+    <loc>https://kination.github.io/posts/2018-03-20-actor-and-akka/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/akka/</loc>
+    <loc>https://kination.github.io/tags/akka/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/data/</loc>
+    <loc>https://kination.github.io/tags/data/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/pre-process/</loc>
+    <loc>https://kination.github.io/tags/pre-process/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2018-01-15-data-pre-processing/</loc>
+    <loc>https://kination.github.io/posts/2018-01-15-data-pre-processing/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/data-research/</loc>
+    <loc>https://kination.github.io/tags/data-research/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2017-11-25-first-kaggle-research/</loc>
+    <loc>https://kination.github.io/posts/2017-11-25-first-kaggle-research/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/kaggle/</loc>
+    <loc>https://kination.github.io/tags/kaggle/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/android/</loc>
+    <loc>https://kination.github.io/tags/android/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/module/</loc>
+    <loc>https://kination.github.io/tags/module/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/test/</loc>
+    <loc>https://kination.github.io/tags/test/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2017-11-05-android-test-lib/</loc>
+    <loc>https://kination.github.io/posts/2017-11-05-android-test-lib/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/zookeeper/</loc>
+    <loc>https://kination.github.io/tags/zookeeper/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2017-10-16-lookon-zookeeper/</loc>
+    <loc>https://kination.github.io/posts/2017-10-16-lookon-zookeeper/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/angularjs/</loc>
+    <loc>https://kination.github.io/tags/angularjs/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2017-09-05-angularjs-e2e-test/</loc>
+    <loc>https://kination.github.io/posts/2017-09-05-angularjs-e2e-test/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/protractor/</loc>
+    <loc>https://kination.github.io/tags/protractor/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2017-08-11-android-make-lib/</loc>
+    <loc>https://kination.github.io/posts/2017-08-11-android-make-lib/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/library/</loc>
+    <loc>https://kination.github.io/tags/library/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/scraper/</loc>
+    <loc>https://kination.github.io/tags/scraper/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2017-07-23-headless-python-scraping/</loc>
+    <loc>https://kination.github.io/posts/2017-07-23-headless-python-scraping/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2017-07-04-construct-frontend-with-gulp/</loc>
+    <loc>https://kination.github.io/posts/2017-07-04-construct-frontend-with-gulp/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/gulp/</loc>
+    <loc>https://kination.github.io/tags/gulp/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/machine-learning/</loc>
+    <loc>https://kination.github.io/tags/machine-learning/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2017-06-11-single-linear-regression/</loc>
+    <loc>https://kination.github.io/posts/2017-06-11-single-linear-regression/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/statistic/</loc>
+    <loc>https://kination.github.io/tags/statistic/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/firebase/</loc>
+    <loc>https://kination.github.io/tags/firebase/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2017-04-11-going-firebase-messaging/</loc>
+    <loc>https://kination.github.io/posts/2017-04-11-going-firebase-messaging/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2017-03-01-getting-start-ibis/</loc>
+    <loc>https://kination.github.io/posts/2017-03-01-getting-start-ibis/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2017-01-10-map-reduce/</loc>
+    <loc>https://kination.github.io/posts/2017-01-10-map-reduce/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/mapreduce/</loc>
+    <loc>https://kination.github.io/tags/mapreduce/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/rest/</loc>
+    <loc>https://kination.github.io/tags/rest/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2016-10-11-django-api/</loc>
+    <loc>https://kination.github.io/posts/2016-10-11-django-api/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2016-09-28-nvd3-customize-tick/</loc>
+    <loc>https://kination.github.io/posts/2016-09-28-nvd3-customize-tick/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/nvd3/</loc>
+    <loc>https://kination.github.io/tags/nvd3/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/bower/</loc>
+    <loc>https://kination.github.io/tags/bower/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2016-08-19-bower-register/</loc>
+    <loc>https://kination.github.io/posts/2016-08-19-bower-register/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2016-08-05-translate-angular-project/</loc>
+    <loc>https://kination.github.io/posts/2016-08-05-translate-angular-project/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/environment/</loc>
+    <loc>https://kination.github.io/tags/environment/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2016-07-30-using-virtualenv/</loc>
+    <loc>https://kination.github.io/posts/2016-07-30-using-virtualenv/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2016-06-11-angularjs-django/</loc>
+    <loc>https://kination.github.io/posts/2016-06-11-angularjs-django/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2016-03-06-android-recycler/</loc>
+    <loc>https://kination.github.io/posts/2016-03-06-android-recycler/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/recyclerview/</loc>
+    <loc>https://kination.github.io/tags/recyclerview/</loc>
     <lastmod>2023-03-21T15:45:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://kination.github.io/categories/</loc>
   </url>
 </urlset>
