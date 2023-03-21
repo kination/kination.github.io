@@ -7,7 +7,7 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Hugo Theme MemE</title>
+        <title>kination&#39;s blog</title>
         <link>https://example.com/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
         <generator>Hugo 0.111.3 https://gohugo.io/</generator>
@@ -15,15 +15,15 @@
             <language>en</language>
         
         
-            <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
+            <managingEditor>kination27@gmail.com (kination)</managingEditor>
         
         
-            <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
+            <webMaster>kination27@gmail.com (kination)</webMaster>
         
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Tue, 21 Mar 2023 16:51:26 &#43;0900</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 17:01:38 &#43;0900</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
@@ -34,7 +34,7 @@
                 <guid isPermaLink="true">https://example.com/posts/2022-09-11-export-file-from-flink-app/</guid>
                 <pubDate>Sun, 11 Sep 2022 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -396,7 +396,7 @@ org.apache.flink.formats.compress.CompressWriterFactory.withHadoopCompression(Co
                 <guid isPermaLink="true">https://example.com/posts/2022-06-05-flink-handle-stream-window/</guid>
                 <pubDate>Sun, 05 Jun 2022 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -664,7 +664,7 @@ org.apache.flink.formats.compress.CompressWriterFactory.withHadoopCompression(Co
                 <guid isPermaLink="true">https://example.com/posts/2021-11-29-what-reverse-proxy-for/</guid>
                 <pubDate>Mon, 29 Nov 2021 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -827,7 +827,7 @@ org.apache.flink.formats.compress.CompressWriterFactory.withHadoopCompression(Co
                 <guid isPermaLink="true">https://example.com/posts/2021-11-15-back-to-basic-of-tree-structure/</guid>
                 <pubDate>Fri, 15 Oct 2021 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -1131,7 +1131,7 @@ It requires one more condition that every node has a value that is&amp;hellip;&l
                 <guid isPermaLink="true">https://example.com/posts/2021-09-03-face-on-skew-issue-in-spark/</guid>
                 <pubDate>Fri, 03 Sep 2021 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -1455,7 +1455,7 @@ and &amp;lsquo;Suffling&amp;rsquo; is very expensive operation for performance.&
                 <guid isPermaLink="true">https://example.com/posts/2021-02-15-deploy-airflow-with-github-action/</guid>
                 <pubDate>Mon, 15 Feb 2021 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -1904,7 +1904,7 @@ and &amp;lsquo;Suffling&amp;rsquo; is very expensive operation for performance.&
                 <guid isPermaLink="true">https://example.com/posts/2020-12-02-athena-with-sdk-spark-jdbc/</guid>
                 <pubDate>Wed, 02 Dec 2020 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -2190,7 +2190,7 @@ and &amp;lsquo;Suffling&amp;rsquo; is very expensive operation for performance.&
                 <guid isPermaLink="true">https://example.com/posts/2020-10-20-authentication-with-flutter-nestjs/</guid>
                 <pubDate>Wed, 21 Oct 2020 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -2798,7 +2798,7 @@ $ # result -&amp;gt; {&amp;#34;userId&amp;#34;: &amp;#34;user-id&amp;#34;, &amp;
                 <guid isPermaLink="true">https://example.com/posts/2020-06-30-cloud-run-django-react/</guid>
                 <pubDate>Tue, 30 Jun 2020 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -3044,7 +3044,7 @@ Wait for a while for service upload. You could find auto-generated url to access
                 <guid isPermaLink="true">https://example.com/posts/2020-05-22-authentication-process-golang-web-part-1/</guid>
                 <pubDate>Fri, 22 May 2020 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -3431,7 +3431,7 @@ Wait for a while for service upload. You could find auto-generated url to access
                 <guid isPermaLink="true">https://example.com/posts/2020-04-20-cli-tool-for-build-deploy/</guid>
                 <pubDate>Mon, 20 Apr 2020 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -3730,7 +3730,7 @@ Commands:
                 <guid isPermaLink="true">https://example.com/posts/2020-03-11-api-designing-java/</guid>
                 <pubDate>Wed, 11 Mar 2020 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -4000,7 +4000,7 @@ Though both offers similar operation, it has different naming. Of course, from f
                 <guid isPermaLink="true">https://example.com/posts/2020-01-26-build-your-own-kv-store/</guid>
                 <pubDate>Sun, 26 Jan 2020 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -4253,7 +4253,7 @@ Though both offers similar operation, it has different naming. Of course, from f
                 <guid isPermaLink="true">https://example.com/posts/2019-10-17-about-how-bff-works/</guid>
                 <pubDate>Thu, 17 Oct 2019 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -4610,7 +4610,7 @@ But between BFF and client, network speed will be highly effected by where user 
                 <guid isPermaLink="true">https://example.com/posts/2019-08-02-handle-feature-kafka-spring/</guid>
                 <pubDate>Fri, 02 Aug 2019 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -4864,7 +4864,7 @@ if (jse.asJsonObject.get(&amp;#34;key&amp;#34;).isJsonNull()) {
                 <guid isPermaLink="true">https://example.com/posts/2019-06-21-vuejs-component-basic-data-flow/</guid>
                 <pubDate>Fri, 21 Jun 2019 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -5237,7 +5237,7 @@ In this image, you can see feature as:&lt;/p&gt;
                 <guid isPermaLink="true">https://example.com/posts/2019-03-22-py-js-to-golang/</guid>
                 <pubDate>Fri, 22 Mar 2019 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -5612,7 +5612,7 @@ If you install golang via ‘brew’, it will automatically create and define as
                 <guid isPermaLink="true">https://example.com/posts/2019-02-28-things-of-do-dont/</guid>
                 <pubDate>Thu, 28 Feb 2019 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -5735,7 +5735,7 @@ For example, learning technologies when I need them.
                 <guid isPermaLink="true">https://example.com/posts/2019-01-29-reactive-programming-rx/</guid>
                 <pubDate>Tue, 29 Jan 2019 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -5979,7 +5979,7 @@ Received: Four of the ten most expensive stadiums ever built worldwide (MetLife 
                 <guid isPermaLink="true">https://example.com/posts/2018-12-21-publish-module-npm/</guid>
                 <pubDate>Fri, 21 Dec 2018 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -6359,7 +6359,7 @@ npm notice
                 <guid isPermaLink="true">https://example.com/posts/2018-11-25-tensorflow-basic-neural-network/</guid>
                 <pubDate>Sun, 25 Nov 2018 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -6712,7 +6712,7 @@ This is just note for basic understanding.&lt;/p&gt;
                 <guid isPermaLink="true">https://example.com/posts/2018-10-29-basic-of-elk-stack/</guid>
                 <pubDate>Mon, 29 Oct 2018 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -6889,7 +6889,7 @@ Go into menu &amp;lsquo;discover&amp;rsquo; in left navigation menu.&lt;/p&gt;
                 <guid isPermaLink="true">https://example.com/posts/2018-09-29-react-js-to-ts/</guid>
                 <pubDate>Sat, 29 Sep 2018 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -7304,7 +7304,7 @@ And when making &lt;code&gt;state&lt;/code&gt;, &lt;code&gt;dispatch&lt;/code&gt
                 <guid isPermaLink="true">https://example.com/posts/2018-08-15-power-up-python-with-rust/</guid>
                 <pubDate>Wed, 15 Aug 2018 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -7617,7 +7617,7 @@ benchmark(sum_np_list, np_random_list)
                 <guid isPermaLink="true">https://example.com/posts/2018-07-23-day-with-starting-spark/</guid>
                 <pubDate>Mon, 23 Jul 2018 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -7789,7 +7789,7 @@ Now, the print action is required, so DAG will be executed to show the mapped da
                 <guid isPermaLink="true">https://example.com/posts/2018-06-16-python-async-aiohttp/</guid>
                 <pubDate>Sat, 16 Jun 2018 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -7994,7 +7994,7 @@ It will be more easier to understand now.
                 <guid isPermaLink="true">https://example.com/posts/2018-05-18-hadoop-hive-setup/</guid>
                 <pubDate>Fri, 18 May 2018 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -8272,7 +8272,7 @@ I&amp;rsquo;ll keep working on, and share here as much as possible.&lt;/p&gt;
                 <guid isPermaLink="true">https://example.com/posts/2018-03-20-actor-and-akka/</guid>
                 <pubDate>Tue, 20 Mar 2018 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -8484,7 +8484,7 @@ If you are more interested in this, you could find more from official site, GitH
                 <guid isPermaLink="true">https://example.com/posts/2018-01-15-data-pre-processing/</guid>
                 <pubDate>Mon, 15 Jan 2018 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -8689,7 +8689,7 @@ print(&amp;lsquo;The accuracy of the Decision Tree is&amp;rsquo;,metrics.accurac
                 <guid isPermaLink="true">https://example.com/posts/2017-11-25-first-kaggle-research/</guid>
                 <pubDate>Sat, 25 Nov 2017 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -8917,7 +8917,7 @@ dt_solution = pd.DataFrame(dt_prediction_result, PassengerId, columns = [&amp;ld
                 <guid isPermaLink="true">https://example.com/posts/2017-11-05-android-test-lib/</guid>
                 <pubDate>Sun, 05 Nov 2017 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -9061,7 +9061,7 @@ It needs to define language and it is set as &lt;code&gt;Android&lt;/code&gt;(th
                 <guid isPermaLink="true">https://example.com/posts/2017-10-16-lookon-zookeeper/</guid>
                 <pubDate>Tue, 03 Oct 2017 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -9223,7 +9223,7 @@ numChildren = 0
                 <guid isPermaLink="true">https://example.com/posts/2017-09-05-angularjs-e2e-test/</guid>
                 <pubDate>Tue, 05 Sep 2017 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -9412,7 +9412,7 @@ After click event happens, make test to wait browser result for 5 seconds cause 
                 <guid isPermaLink="true">https://example.com/posts/2017-08-11-android-make-lib/</guid>
                 <pubDate>Fri, 11 Aug 2017 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -9602,7 +9602,7 @@ tools:context=&amp;ldquo;io.kination.myapplication.MainActivity&amp;rdquo;&amp;g
                 <guid isPermaLink="true">https://example.com/posts/2017-07-23-headless-python-scraping/</guid>
                 <pubDate>Sun, 23 Jul 2017 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -9760,7 +9760,7 @@ bs_object = BeautifulSoup(hb_scraper.scrape_page(url), &amp;ldquo;html.parser&am
                 <guid isPermaLink="true">https://example.com/posts/2017-07-04-construct-frontend-with-gulp/</guid>
                 <pubDate>Tue, 04 Jul 2017 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -10037,7 +10037,7 @@ Very simple! Just add &lt;code&gt;gulp-cache-bust&lt;/code&gt; module with param
                 <guid isPermaLink="true">https://example.com/posts/2017-06-11-single-linear-regression/</guid>
                 <pubDate>Fri, 09 Jun 2017 23:56:45 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -10146,7 +10146,7 @@ plt.show()
                 <guid isPermaLink="true">https://example.com/posts/2017-04-11-going-firebase-messaging/</guid>
                 <pubDate>Wed, 05 Apr 2017 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -10335,7 +10335,7 @@ android:name=&#34;.FBIdService&#34;&gt;
                 <guid isPermaLink="true">https://example.com/posts/2017-03-01-getting-start-ibis/</guid>
                 <pubDate>Tue, 14 Mar 2017 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -10553,7 +10553,7 @@ id bool_col  tinyint_col  smallint_col  int_col  bigint_col  &lt;br&gt;
                 <guid isPermaLink="true">https://example.com/posts/2017-01-10-map-reduce/</guid>
                 <pubDate>Tue, 10 Jan 2017 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -10634,7 +10634,7 @@ Welcome to mapreduce
                 <guid isPermaLink="true">https://example.com/posts/2016-10-11-django-api/</guid>
                 <pubDate>Fri, 11 Nov 2016 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -10823,7 +10823,7 @@ $ curl -H &amp;lsquo;Accept: application/json; indent=4&amp;rsquo; http://127.0.
                 <guid isPermaLink="true">https://example.com/posts/2016-09-28-nvd3-customize-tick/</guid>
                 <pubDate>Wed, 28 Sep 2016 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -10997,7 +10997,7 @@ Now in &amp;rsquo;tickValues&amp;rsquo; option, return proper date value only fo
                 <guid isPermaLink="true">https://example.com/posts/2016-08-19-bower-register/</guid>
                 <pubDate>Tue, 23 Aug 2016 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -11155,7 +11155,7 @@ homepage: &amp;lsquo;&lt;a href=&#34;https://github.com/kination/ion-range-slide
                 <guid isPermaLink="true">https://example.com/posts/2016-08-05-translate-angular-project/</guid>
                 <pubDate>Fri, 12 Aug 2016 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -11293,7 +11293,7 @@ function ($translateProvider) {&lt;/p&gt;
                 <guid isPermaLink="true">https://example.com/posts/2016-07-30-using-virtualenv/</guid>
                 <pubDate>Mon, 25 Jul 2016 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -11429,7 +11429,7 @@ system
                 <guid isPermaLink="true">https://example.com/posts/2016-06-11-angularjs-django/</guid>
                 <pubDate>Fri, 10 Jun 2016 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -11545,7 +11545,7 @@ STATIC_URL = &amp;lsquo;/static/&amp;rsquo;
                 <guid isPermaLink="true">https://example.com/posts/2016-03-06-android-recycler/</guid>
                 <pubDate>Sun, 06 Mar 2016 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>kination27@gmail.com (kination)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
